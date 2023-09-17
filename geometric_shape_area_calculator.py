@@ -60,7 +60,8 @@ def main():
         print(f"The area is: {area:.2f} square units.") # DO NOT MODIFY
 
     # TODO: Print a statement explaining each step required to find and complete your technical assignments.  Be specific. 
-    print('First, I needed to clone my Github repository to my local repository.\nSecond, I read the README.md for my technical instructions.\nNext, I completed the first task of printing a welcome statement.\n')
+    print('First, I needed to clone my Github repository to my local repository.\nSecond, I read the README.md for my technical instructions.')
+    print('After completing the assignment, I ran a unit test within my terminal using"python3 -m unittest" within the parent folder of my assessment\nAfter saving my work I applied a git status, add, push, and commit of my assessment to Github.')
 
 if __name__ == "__main__": # DO NOT MODIFY
     main() # DO NOT MODIFY
